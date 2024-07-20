@@ -4,6 +4,7 @@ import os
 from ascii import getAscii, writeAsciiToFile
 import time
 
+
 input_video_path = "sunset.mp4"
 
 cap = cv2.VideoCapture(input_video_path)
