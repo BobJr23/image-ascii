@@ -1,4 +1,4 @@
-Clone the project and then run 
+Clone the project, install numpy and opencv-python, and then run 
 
 ```python ascii.py``` to generate an image based on a png file (in the files, its tree.png right now)
 
